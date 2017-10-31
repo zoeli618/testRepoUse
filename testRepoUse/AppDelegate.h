@@ -11,7 +11,6 @@
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-// commit1
 
 @end
 
@@ -22,3 +21,9 @@
 // master--commit 4
 
 //branch 3 commit 1
+
+
+// branch2 commit 1
+//branch 2 commit 2
+
+
